@@ -1,0 +1,135 @@
+{
+  "columns": [
+    {
+      "id": "cXrtw5n8-FsB",
+      "title": "TODO"
+    },
+    {
+      "id": "w7DTqK1QQKTI",
+      "title": "Doing"
+    },
+    {
+      "id": "bfrqTfEydU38",
+      "title": "Waiting"
+    },
+    {
+      "id": "dfwMbxZS0EmM",
+      "title": "Done"
+    }
+  ],
+  "cards": [
+    {
+      "id": "7lR4Vd3EYixP",
+      "text": "布団から出る\n(:3っ)っ -=三[＿＿]"
+    },
+    {
+      "id": "TsXP5w9qLeM-",
+      "text": "顔を洗う👐"
+    },
+    {
+      "id": "rh022hj9zG58",
+      "text": "歯を磨く🦷"
+    },
+    {
+      "id": "3NRSLMq49xvT",
+      "text": "朝食をとる🍞"
+    },
+    {
+      "id": "ulnuLLt5TN93",
+      "text": "SNSをチェックする🐦"
+    },
+    {
+      "id": "-wkumDeruhSx",
+      "text": "布団に入る\n(:3[___]"
+    },
+    {
+      "id": "usBrnzoEn88X",
+      "text": "NEW"
+    },
+    {
+      "id": "jfx7yaleqo4I",
+      "text": "new"
+    },
+    {
+      "id": "NZsu2MfOIBQq",
+      "text": "aaaa\nnew"
+    },
+    {
+      "id": "WMya8St3ES42",
+      "text": "add\n"
+    },
+    {
+      "id": "Jd1VP0z27i3j",
+      "text": "a"
+    },
+    {
+      "id": "ju_ZliLZd-V2",
+      "text": "new"
+    },
+    {
+      "id": "PtjeYgow9eBd",
+      "text": "new"
+    },
+    {
+      "id": "LTwgyXshy4zv",
+      "text": "wee"
+    },
+    {
+      "id": "dhjAPtpHLJH6",
+      "text": "e"
+    },
+    {
+      "id": "Q5iFJnD5eUVK",
+      "text": "new"
+    },
+    {
+      "id": "6tRH77RhobgU",
+      "text": "npm"
+    },
+    {
+      "id": "4Xp33EtBoymV",
+      "text": "new\n"
+    },
+    {
+      "id": "pcGlhb8_UfwS",
+      "text": "new"
+    },
+    {
+      "id": "1bYxzNAC1NKr",
+      "text": "new1"
+    },
+    {
+      "id": "LYb9WXRMCNkO",
+      "text": "new"
+    },
+    {
+      "id": "CykJg06B1r04",
+      "text": "new"
+    },
+    {
+      "id": "HS0LaehOmqtO",
+      "text": "new"
+    },
+    {
+      "id": "8fEZAvpm__4S",
+      "text": "ggg"
+    },
+    {
+      "id": "uhC0LGZqn_1w",
+      "text": "jjjj"
+    }
+  ],
+  "cardsOrder": {
+    "cXrtw5n8-FsB": "uhC0LGZqn_1w",
+    "w7DTqK1QQKTI": "rh022hj9zG58",
+    "bfrqTfEydU38": "TsXP5w9qLeM-",
+    "dfwMbxZS0EmM": "7lR4Vd3EYixP",
+    "7lR4Vd3EYixP": "dfwMbxZS0EmM",
+    "TsXP5w9qLeM-": "bfrqTfEydU38",
+    "rh022hj9zG58": "ulnuLLt5TN93",
+    "3NRSLMq49xvT": "cXrtw5n8-FsB",
+    "ulnuLLt5TN93": "w7DTqK1QQKTI",
+    "-wkumDeruhSx": "3NRSLMq49xvT",
+    "uhC0LGZqn_1w": "-wkumDeruhSx"
+  }
+}
